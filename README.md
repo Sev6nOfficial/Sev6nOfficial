@@ -1,5 +1,5 @@
 # About Me:
-I'm Sev6n , Currently working on Discord Bots and Websites<br>From Bucharest, Romania <br>Studying Computer Science<br>Worked at BeluGANG Official Server as Moderator <br>
+I'm Sev6n , Currently working on Discord Bots and Websites and a Blog.<br>From Bucharest, Romania <br>Studying Computer Science<br>Worked at BeluGANG Official Server as a Moderator <br>
 
 
 ##  Socials:
