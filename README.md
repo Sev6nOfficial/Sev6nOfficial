@@ -1,5 +1,5 @@
 # About Me:
-I'm Sev6n, a *Professional Node.JS, Python and HTML Software Engineer*.<br>From Bucharest, Romania <br>Studying Computer Science<br>Worked at BeluGANG Official Server as a Moderator <br>
+I'm Sev6n, a *Professional Node.JS, Python and HTML Software Engineer*.<br>From Romania.<br>Studying Computer Science.<br>Worked at BeluGANG Official Server as a Moderator. Working now at NoErrorStudios™.<br>
 
 
 ##  Socials:
@@ -10,7 +10,7 @@ I'm Sev6n, a *Professional Node.JS, Python and HTML Software Engineer*.<br>From 
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sev6nOfficial&theme=dark&hide_border=false)<br/>
 
-##  GitHub Trophies
+##  GitHub Trophy
 ![](https://github-profile-trophy.vercel.app/?username=Sev6nOfficial&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
