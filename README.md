@@ -1,5 +1,5 @@
 # About Me:
-I'm Sev6n, a *Professional Node.JS, Python and HTML Software Engineer*.<br>From Romania.<br>Studying Computer Science.<br>Worked at BeluGANG Official Server as a Moderator. Working now at NoErrorStudios™.<br>
+I'm Sev6n, a *Professional Node.JS, Python and HTML Software Engineer*.<br>From Romania.<br>Studying Computer Science.<br>
 
 
 ##  Socials:
